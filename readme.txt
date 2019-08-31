@@ -1,6 +1,6 @@
 1. run project
-  a. Open terminal and go to the root of project where you can see a file named "pom.xml".
-  b. key in "mvn compile && mvn exec:java -Dexec.mainClass="leo.App" and then press enter.
+  a. Open terminal and go to the project root directory where this is a file named "pom.xml".
+  b. Input "mvn compile && mvn exec:java -Dexec.mainClass="leo.App" and then press enter.
 
 2. Sequence of program execution
   a. At first, Choose to load payment form a file name "payment.txt" where is in the project root directory
